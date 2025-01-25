@@ -67,7 +67,7 @@ This project is licensed under the `Strict LICENSE` See the [LICENSE](LICENSE) f
 
 ## **Contact**
 For any questions or feedback, please contact us:
-- **Email:** support@trainalertsafety.com
+<!-- **Email:** support@trainalertsafety.com -->
 - **LinkedIn:** [Syed Imtiyaz Ali](https://linkedin.com/in/imtiyaz-sde)
 
 ---

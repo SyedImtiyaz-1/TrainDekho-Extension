@@ -11,7 +11,8 @@ Train Emergency Alert Extension is designed to provide passengers a fast and car
 ### **2. Real-Time Alerts**
 - Sends an immediate notification with the user’s **real-time location** and **train details** to the nearest station and police.
 - The alert includes a pre-configured message to ensure quick action:
-  *"Emergency! Possible hijacking on Train [Train Number]. Immediate assistance required at [Location]."*
+  
+  *"Emergency! Possible Danger on Train [Train Number]. Immediate assistance required at [Location]."*
 
 ### **3. Hijacker Mitigation**
 - If the user cannot interact due to pressure from hijackers, the extension ensures:
@@ -19,7 +20,8 @@ Train Emergency Alert Extension is designed to provide passengers a fast and car
   - Silent feedback (like vibration or screen flash) to confirm the alert is sent.
 
 ### **4. Offline SMS Fallback**
-- If internet connectivity is unavailable, the alert is sent via **SMS** to pre-configured emergency contacts (e.g., 112 or 100).
+- If internet connectivity is unavailable, the alert is sent via **SMS** to pre-configured emergency contacts
+  (e.g., 112 or 100).
 
 ### **5. User Authentication**
 - Ensures only verified users can send alerts by integrating with phone number or Aadhaar verification systems.

@@ -59,6 +59,10 @@ Train Emergency Alert Extension is designed to provide passengers a fast and car
 
 ---
 
+> Note: Feel free to integrate the Extension - CLI will release soon.
+
+---
+
 
 ## **License**
 This project is licensed under the `Strict LICENSE` See the [LICENSE](LICENSE) file for more details.
